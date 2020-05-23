@@ -23,3 +23,6 @@ This project was done as capstone project in Reinforcement learning specializati
    4.utils1/2.py        : It is the utilty script containing plotting functions.</br>
    5.Lunar_Lander.ipynb : It is notebook containing all the 3 models executed for 300 episodes.</br>
 
+## License & copyright
+ © Rahul Kumar  
+ Licensed under the [MIT License](LICENSE)
