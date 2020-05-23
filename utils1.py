@@ -1,3 +1,5 @@
+# Original author : https://github.com/philtabor/Youtube-Code-Repository/tree/master/ReinforcementLearning
+
 import matplotlib.pyplot as plt 
 import numpy as np
 
